@@ -1,7 +1,7 @@
 <?php 
 
     // Basic principles of PHP
-    // PHP7 / Apache / MySQL Setup (XAMPP server)
+    // PHP7 / Apache / MySQL Setup (XAMPP server installation required)
     // Code syntax (vars, arrays, loops, conditionals, functions, etc.)
     // Procedural & OOP 
     // Dynamic Pages 
@@ -49,18 +49,42 @@
 
     Database Compatibility; 
 
+                            What Can PHP Do?
 
+    Create dynamic page content
+    
+    Interact with files on the server
+
+    Collect & Process forms
+
+    Send / receive cookies
+
+    Interact with databases
+
+    Access control
+
+    Encrypt data
+
+    Almost anything else 
+
+                            What Can You Build With PHP?
+
+    Basic websites
+
+    Blog Type Websites 
+
+    Shopping Carts 
+
+    Social Networks 
+
+    Content Management Systems (CMS)
+
+    Membership Websites 
+
+    Search Engines 
+
+    Backend APIs
 
 
     */
-
-
-
-
-
-
-
-
-
-
 ?>
