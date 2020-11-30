@@ -11,7 +11,7 @@
 
     /* 
 
-    What is PHP?
+                            What is PHP?
     
     PHP: Hypertext Preprocessor (Recursive acronym);
 
@@ -20,8 +20,8 @@
     Can be embedded directly within HTML (<?php ?>)
     
     Files use a ".php" file extension
-
-    How Does PHP Work? 
+    
+                            How Does PHP Work? 
 
     Client makes a request 
 
@@ -32,7 +32,26 @@
     Load other files if needed
 
     Result is sent back to client (or browser)
-    
+   
+                            Why Use PHP? 
+
+    Easy to learn 
+
+    Free & Open Source
+
+    Great Support 
+
+    Cross Platform
+
+    Freedom 
+
+    Frameworks (Laravel, Codeigniter, Yii2)
+
+    Database Compatibility; 
+
+
+
+
     */
 
 
